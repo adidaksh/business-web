@@ -1,2 +1,2 @@
-# busniss web
+# business web
  html css and bootstrap template
